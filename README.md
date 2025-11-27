@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ASHIK-NISHON&show_icons=true&locale=en" alt="ASHIK-NISHON" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ASHIK-NISHON&" alt="ASHIK-NISHON" /></p>
+<p><img align="center" src="https://git-hub-streak-stats.vercel.app?user=ASHIK-NISHON&" alt="ASHIK-NISHON" /></p>
 
