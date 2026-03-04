@@ -59,7 +59,7 @@ Next systems loading...
 > Build fast.  
 > Build clean.  
 > Build things that matter.
-> And the beauty of the product. 
+> Beauty of the product. 
 
 ---
 
