@@ -1,19 +1,40 @@
 # Hi 👋, I'm _DEV_
 
-### A passionate software developer.
+### Full-Stack Developer building intelligent tools for Web3 and beyond.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ASHIK-NISHON&label=Profile%20views&color=0e75b6&style=flat" alt="ASHIK-NISHON" /> </p>
+Full-stack developer focused on building high-performance systems, clean interfaces, and scalable products that create real leverage.
 
-- 🔭 I'm currently working on **a react app**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ASHIK-NISHON&label=Profile%20views&color=0e75b6&style=flat" alt="ASHIK-NISHON" />
+</p>
 
-- 🌱 I'm currently learning **ML and New tools**
+- 🔭 Currently building **Web3 dApps**
+- 🌱 I work independently and leverage AI tools to move faster and ship smarter
+- ⚡ Fun fact: I have more unfinished side projects than free time
 
-- ⚡ Fun fact **My page has lot of unfinished projects than my life goals**
+---
+
+## 🚀 Recent Projects
+
+### 🔹 [QX-Monitor](https://github.com/ASHIK-NISHON/qx_monitor)
+An open-source, real-time intelligence platform for the Qubic ecosystem.  
+Built to monitor token activities, wallet behavior, and on-chain events with clear, actionable insights.  
+Live on the official Qubic ecosystem.
+
+### 🔹 [Cred Chain](https://github.com/ASHIK-NISHON/CRED_CHAIN)
+A decentralized application for storing academic credentials on-chain.  
+Prevents fraud, eliminates loss of records, and gives students full control over sharing their data.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ASHIK-NISHON" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ASHIK-NISHON" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/EP69JR8u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EP69JR8u" height="30" width="40" /></a>
+<a href="https://github.com/ASHIK-NISHON" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ASHIK-NISHON" height="30" width="40" />
+</a>
+<a href="https://discord.gg/EP69JR8u" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
