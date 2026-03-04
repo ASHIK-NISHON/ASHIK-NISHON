@@ -1,30 +1,65 @@
-# Hi 👋, I'm _DEV_
+# 👋 Hi, I'm **_DEV_**
 
-### Full-Stack Developer building intelligent tools for Web3 and beyond.
+### 🧠 Full-Stack Developer building intelligent tools for Web3 and beyond
 
-Full-stack developer focused on building high-performance systems, clean interfaces, and scalable products that create real leverage.
+I build high-performance systems, clean interfaces, and scalable products that create real leverage.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ASHIK-NISHON&label=Profile%20views&color=0e75b6&style=flat" alt="ASHIK-NISHON" />
+  <img src="https://komarev.com/ghpvc/?username=ASHIK-NISHON&label=Profile%20Views&color=0e75b6&style=flat" alt="ASHIK-NISHON" />
 </p>
-
-- 🔭 Currently building **Web3 dApps**
-- 🌱 I work independently and leverage AI tools to move faster and ship smarter
-- ⚡ Fun fact: I have more unfinished side projects than free time
 
 ---
 
-## 🚀 Recent Projects
+## 🛠 Current Focus
+
+- 🔭 Building next-gen **Web3 dApps**
+- 🤖 Leveraging AI to ship faster & smarter
+- 🧩 Designing for performance & scalability
+- ⚡ Turning ideas into shipped systems
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 [QX-Monitor](https://github.com/ASHIK-NISHON/qx_monitor)
 
-Real-time intelligence platform built for the [Qubic Ecosystem](https://qubic.org/).
+Real-time intelligence platform built for the **[Qubic Ecosystem](https://qubic.org/)**  
 
-Designed to monitor token activity, wallet behavior, and on-chain events with clear, actionable insights.
+📊 Token activity monitoring  
+👛 Wallet behavior tracking  
+⚡ On-chain analytics  
+🎯 Clear, actionable insights  
+
+---
 
 ### 🔹 [Cred Chain](https://github.com/ASHIK-NISHON/CRED_CHAIN)
-A decentralized application for storing academic credentials on-chain.  
-Prevents fraud, eliminates loss of records, and gives students full control over sharing their data.
+
+Decentralized academic credential verification system.
+
+🔐 Secure on-chain storage  
+🛡 Fraud prevention  
+🎓 User-controlled verification  
+
+---
+
+## ⌛ In Motion
+██████████████░░░░░░ 70.01%
+
+Building.
+Refining.
+Optimizing.
+Shipping.
+
+Next systems loading...
+
+---
+
+## 🧠 Philosophy
+
+> Build fast.  
+> Build clean.  
+> Build things that matter.
+> And the beauty of the product. 
 
 ---
 
