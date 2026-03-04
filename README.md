@@ -17,9 +17,10 @@ Full-stack developer focused on building high-performance systems, clean interfa
 ## 🚀 Recent Projects
 
 ### 🔹 [QX-Monitor](https://github.com/ASHIK-NISHON/qx_monitor)
-An open-source, real-time intelligence platform for the Qubic ecosystem.  
-Built to monitor token activities, wallet behavior, and on-chain events with clear, actionable insights.  
-Live on the official Qubic ecosystem.
+
+Real-time intelligence platform built for the [Qubic Ecosystem](https://qubic.org/).
+
+Designed to monitor token activity, wallet behavior, and on-chain events with clear, actionable insights.
 
 ### 🔹 [Cred Chain](https://github.com/ASHIK-NISHON/CRED_CHAIN)
 A decentralized application for storing academic credentials on-chain.  
