@@ -58,8 +58,8 @@ Next systems loading...
 
 > Build fast.  
 > Build clean.  
-> Build things that matter.
-> Beauty of the product. 
+> Build things that matter.  
+> Prioritize the beauty of the product.
 
 ---
 
