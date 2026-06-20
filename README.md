@@ -32,7 +32,7 @@ Real-time intelligence platform built for the **[Qubic Ecosystem](https://qubic.
 
 ---
 
-### 🔹 [Cred Chain](https://github.com/ASHIK-NISHON/CREDBLOCK.)
+### 🔹 [Cred Block](https://github.com/ASHIK-NISHON/CREDBLOCK.)
 
 Decentralized academic credential verification system.
 
